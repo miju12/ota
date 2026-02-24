@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1771831333,
-      "filename": "crDroidAndroid-16.0-20260223-sky-v12.7.zip",
-      "id": "d2a49a599bf06243700ecc6d7b73f0f2",
-      "romtype": "Weekly",
-      "size": 1282379276,
-      "url": "https://sourceforge.net/projects/mourya-sky/files/crdroid/crDroidAndroid-16.0-20260223-sky-v12.7.zip/download",
+      "datetime": 1771918590,
+      "filename": "crDroidAndroid-16.0-20260224-sky-v12.7.zip",
+      "id": "1055406385aa3c4bcffa35709f8f58e3",
+      "romtype": "Monthly",
+      "size": 1282913135,
+      "url": "https://sourceforge.net/projects/mourya-sky/files/crdroid/crDroidAndroid-16.0-20260224-sky-v12.7.zip/download",
       "version": "12.7"
     }
   ]
