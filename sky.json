@@ -1,28 +1,28 @@
 {
-    "response": [
-        {
-            "maintainer": "Mourya Baruah",
-            "oem": "Redmi",
-            "device": "Redmi 12 5G",
-            "filename": "crDroidAndroid-15.0-20251030-sky-v11.10.zip",
-            "download": "https://sourceforge.net/projects/crdroid/files/sky/11.x/crDroidAndroid-15.0-20251030-sky-v11.10.zip/download",
-            "timestamp": 1761798794,
-            "md5": "bc75d406114ea2f3727111b99172c3eb",
-            "sha256": "b4573fc1d4beb575d54fd224ff0b7df3b5a1fd6582ff8d16aba17c889f63285f",
-            "size": 1274539342,
-            "version": "11.10",
-            "buildtype": "Monthly",
-            "forum": "https://xdaforums.com/t/rom-15-redmi-12-5g-poco-m6-pro-5g-crdroid-v11.4702481",
-            "gapps": "https://sourceforge.net/projects/nikgapps/files/Elite-Releases/crdroid-official/Android-15",
-            "firmware": "https://xmfirmwareupdater.com/firmware/sky/stable/OS2.0.3.0.VMWINXM/",
-            "modem": "",
-            "bootloader": "",
-            "recovery": "https://sourceforge.net/projects/mourya-sky/files/recovery/OrangeFox-Unofficial-sky_22_10_2023.img/download",
-            "paypal": "",
-            "telegram": "https://t.me/mourya_sky_support",
-            "dt": "",
-            "common-dt": "",
-            "kernel": ""
-        }
-    ]
+  "response": [
+    {
+      "maintainer": "Mourya Baruah",
+      "oem": "Redmi",
+      "device": "Redmi 12 5G",
+      "filename": "crDroidAndroid-16.0-20260223-sky-v12.7.zip",
+      "download": "https://sourceforge.net/projects/mourya-sky/files/crdroid/crDroidAndroid-16.0-20260223-sky-v12.7.zip/download",
+      "timestamp": 1771831333,
+      "md5": "d2a49a599bf06243700ecc6d7b73f0f2",
+      "sha256": "02c7e660a040aa303ac55f30cd496787e6d156790e00d5f904edf8ad5203a076",
+      "size": 1282379276,
+      "version": "12.7",
+      "buildtype": "Monthly",
+      "forum": "https://xdaforums.com/t/rom-15-redmi-12-5g-poco-m6-pro-5g-crdroid-v11.4702481",
+      "gapps": "https://sourceforge.net/projects/nikgapps/files/Elite-Releases/crdroid-official/Android-15",
+      "firmware": "https://xmfirmwareupdater.com/firmware/sky/stable/OS2.0.3.0.VMWINXM/",
+      "modem": "",
+      "bootloader": "",
+      "recovery": "https://sourceforge.net/projects/mourya-sky/files/recovery/OrangeFox-Unofficial-sky_22_10_2023.img/download",
+      "paypal": "",
+      "telegram": "https://t.me/mourya_sky_support",
+      "dt": "",
+      "common-dt": "",
+      "kernel": ""
+    }
+  ]
 }
