@@ -1,28 +1,13 @@
 {
   "response": [
     {
-      "maintainer": "Mourya Baruah",
-      "oem": "Redmi",
-      "device": "Redmi 12 5G",
-      "filename": "crDroidAndroid-16.0-20260223-sky-v12.7.zip",
-      "download": "https://sourceforge.net/projects/mourya-sky/files/crdroid/crDroidAndroid-16.0-20260223-sky-v12.7.zip/download",
-      "timestamp": 1771831333,
-      "md5": "d2a49a599bf06243700ecc6d7b73f0f2",
-      "sha256": "02c7e660a040aa303ac55f30cd496787e6d156790e00d5f904edf8ad5203a076",
-      "size": 1282379276,
-      "version": "12.7",
-      "buildtype": "Monthly",
-      "forum": "https://xdaforums.com/t/rom-15-redmi-12-5g-poco-m6-pro-5g-crdroid-v11.4702481",
-      "gapps": "https://sourceforge.net/projects/nikgapps/files/Elite-Releases/crdroid-official/Android-15",
-      "firmware": "https://xmfirmwareupdater.com/firmware/sky/stable/OS2.0.3.0.VMWINXM/",
-      "modem": "",
-      "bootloader": "",
-      "recovery": "https://sourceforge.net/projects/mourya-sky/files/recovery/OrangeFox-Unofficial-sky_22_10_2023.img/download",
-      "paypal": "",
-      "telegram": "https://t.me/mourya_sky_support",
-      "dt": "",
-      "common-dt": "",
-      "kernel": ""
+      "datetime": 1774781657,
+      "filename": "crDroidAndroid-16.0-20260329-sky-v12.8.zip",
+      "id": "ad9097ac26c2eae3e5f1f9132898e831",
+      "romtype": "Monthly",
+      "size": 1311455962,
+      "url": "https://sourceforge.net/projects/mourya-sky/files/crdroid/crDroidAndroid-16.0-20260329-sky-v12.8.zip/download",
+      "version": "12.8"
     }
   ]
 }
