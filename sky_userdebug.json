@@ -1,13 +1,28 @@
 {
   "response": [
     {
-      "datetime": 1774805082,
-      "filename": "crDroidAndroid-16.0-20260329-sky-v12.8-userdebug.zip",
-      "id": "8d583ccd89ee11b36bb54c7efa6dccf2",
-      "romtype": "Testing",
-      "size": 1319482009,
-      "url": "https://sourceforge.net/projects/mourya-sky/files/crdroid/crDroidAndroid-16.0-20260329-sky-v12.8-userdebug.zip/download",
-      "version": "12.8"
+      "maintainer": "Mourya Baruah",
+      "oem": "Redmi",
+      "device": "Redmi 12 5G",
+      "filename": "crDroidAndroid-16.0-20260412-sky-v12.8-userdebug.zip",
+      "download": "https://sourceforge.net/projects/mourya-sky/files/crdroid/crDroidAndroid-16.0-20260412-sky-v12.8-userdebug.zip/download",
+      "timestamp": 1775984835,
+      "md5": "7566764a86c90d6ab931eec2fa65532f",
+      "sha256": "1377a95facd6bebd6703aad4aae873b3236be480b5162b905ae2b61989367190",
+      "size": 1326580823,
+      "version": "12.8",
+      "buildtype": "Testing",
+      "forum": "https://xdaforums.com/t/rom-15-redmi-12-5g-poco-m6-pro-5g-crdroid-v11.4702481",
+      "gapps": "https://sourceforge.net/projects/nikgapps/files/Elite-Releases/crdroid-official/Android-15",
+      "firmware": "https://xmfirmwareupdater.com/firmware/sky/stable/OS2.0.3.0.VMWINXM/",
+      "modem": "",
+      "bootloader": "",
+      "recovery": "https://sourceforge.net/projects/mourya-sky/files/recovery/OrangeFox-Unofficial-sky_22_10_2023.img/download",
+      "paypal": "",
+      "telegram": "https://t.me/mourya_sky_support",
+      "dt": "https://github.com/crdroidandroid/android_device_xiaomi_sky",
+      "common-dt": "",
+      "kernel": "https://github.com/crdroidandroid/android_kernel_xiaomi_sky"
     }
   ]
 }
